@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 #### Summary
-This project involves adding the weather description to the PlanMyTrip app. The input statements is added to the app for customer to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. ![WeatherPy_travel_map_markers.png](WeatherPy_travel_map_markers.png)
+This project involves adding the weather description to the PlanMyTrip app. The input statements is added to the app for customer to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the customers will choose four cities to create a travel itinerary. ![WeatherPy_travel_map_markers.png](WeatherPy_travel_map_markers.png)
 ![WeatherPy_travel_map.png](WeatherPy_travel_map.png)
 
 #### Resources
