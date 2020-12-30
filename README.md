@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis for PlanMyTrip App
 ## Project Objective
 To add a google map to the PlanMyTrip app to be more comfortable for the users to get the full detail of the hotels they are intended to book and the weather of the location
 ## Method Used
